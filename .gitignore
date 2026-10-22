@@ -1,0 +1,22 @@
+# Build output
+/build/
+/build-desktop/
+
+# Qt Creator user-specific files
+/.qtcreator/
+/CMakeUserPresets.json
+*.user
+
+# Temporary and compiled files
+*.o
+*.a
+*.so
+*.qm
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# OS clutter
+.DS_Store
+Thumbs.db
